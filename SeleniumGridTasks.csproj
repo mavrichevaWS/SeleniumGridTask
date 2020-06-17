@@ -9,8 +9,8 @@
     <ProjectGuid>{90FBAD03-0972-4D61-BC22-C21AD39E7135}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SeleniumGridTasks</RootNamespace>
-    <AssemblyName>SeleniumGridTasks</AssemblyName>
+    <RootNamespace>SeleniumGridTests</RootNamespace>
+    <AssemblyName>SeleniumGridTests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
